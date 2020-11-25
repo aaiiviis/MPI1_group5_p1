@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="welcomeLine">This is the first application from Group 05 :Aivis Skangalis, Adrians Miņins, Andris Kudurs</string>
+    <string name="myFirstapp">And the application was developed by Aivis Skangalis</string>
+</resources>
