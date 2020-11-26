@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="this_is_the_first_application_from_group_idk">This is the first application from group 5</string>
+    <string name="group_members">Group members:</string>
+    <string name="group_mem"> Andris Kudurs \nAivis Skangalis \nAdrians Miņins</string>
+    <string name="developedBy">Developed by <b>Andris Kudurs</b></string>
+</resources>
